@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	color: orangered;
+	margin-top: 30px;
+}
+
+#zfb{
+	width: 216px;
+	height: 336px;
+	background-image: url('zfb.jpg');
+	background-repeat: no-repeat;
+	background-size: 216px 336px;
+	float: left;
+	margin-right: 200px;
+}
+
+#wx{
+	width: 300px;
+	height: 300px;
+	background-image: url('wx.png');
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+	float: left;
+	margin-top: 30px;
+}
+
+#wxhy{
+	float: left;
+	margin-top: 315px;
+	margin-left: -300px;
+}
+
+#qf{
+	width: 716px;
+	height: 336px;
+	margin: auto;
+	margin-top: 90px;
+}
+
+ul{
+	margin-top: 80px;
+}
+
+li{
+	margin-top: 20px;
+	color: darkgreen;
+	font-size: 30px;
+	font-weight: bold;
+	list-style: none;
+}
+
+#lb{
+	margin-bottom: 50px;
+}
